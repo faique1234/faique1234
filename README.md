@@ -5,12 +5,11 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%F0%9F%A4%96;LLM+%7C+NLP+%7C+Deep+Learning+%7C+MLOps;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%A4%96;LLM+%7C+NLP+%7C+Deep+Learning+%7C+MLOps;Data+Cleaning+%7C+Preprocessing+%7C+Feature+Engineering;Turning+Raw+Data+into+Intelligence+%F0%9F%A7%A0;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=faique1234&label=Profile%20Views&color=00d4ff&style=flat-square" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/faique1234?label=Followers&style=flat-square&color=00d4ff&labelColor=0d1117" alt="followers" />
@@ -27,7 +26,8 @@ class AIEngineer:
         self.name        = "Muhammad Faique Bin Shahid"
         self.username    = "faique1234"
         self.role        = "AI Engineer"
-        self.focus       = ["LLMs", "NLP", "Machine Learning", "Deep Learning"]
+        self.focus       = ["LLMs", "NLP", "Deep Learning", "Machine Learning"]
+        self.skills      = ["Data Cleaning", "Preprocessing", "Feature Engineering", "Model Training"]
         self.languages   = ["Python", "C++", "JavaScript", "SQL"]
         self.learning    = ["Agentic AI", "RAG Pipelines", "MLOps", "Transformers"]
         self.open_to     = "AI/ML collaborations, research, and SaaS projects"
@@ -47,36 +47,74 @@ me.say_hi()
 - 🔭 Working on **LLM applications, NLP pipelines & AI-powered products**
 - 🌱 Learning **Agentic AI frameworks, RAG systems & Transformer fine-tuning**
 - 🤝 Looking to collaborate on **AI SaaS, research projects & open-source ML**
-- 💬 Ask me about **Machine Learning, NLP, LLMs, Python & Deep Learning**
+- 💬 Ask me about **LLMs, Deep Learning, NLP, Data Preprocessing & Feature Engineering**
 - ⚡ Fun fact: I seamlessly integrate AI/ML into real-world production systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🤖 Large Language Models (LLMs)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-00d4ff?style=for-the-badge&logo=python&logoColor=black)
 
-### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🧠 Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![BLIP](https://img.shields.io/badge/Vision--Language%20AI-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+
+### 📈 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression%20Models-0d6efd?style=for-the-badge&logo=python&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-198754?style=for-the-badge&logo=python&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-6f42c1?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧹 Data Cleaning & Preprocessing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-20c997?style=for-the-badge&logo=python&logoColor=white)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-fd7e14?style=for-the-badge&logo=python&logoColor=white)
+![Missing Values](https://img.shields.io/badge/Missing%20Value%20Handling-dc3545?style=for-the-badge&logo=python&logoColor=white)
+![Normalization](https://img.shields.io/badge/Normalization%20%26%20Scaling-0dcaf0?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 Data Visualization & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎯 Core AI/ML Skills
+
+<div align="center">
+
+| Skill Area | Topics |
+|---|---|
+| 🤖 **Large Language Models** | Prompt Engineering, Fine-tuning, RAG, LangChain, Agents |
+| 🧠 **Deep Learning** | CNNs, RNNs, Transformers, Vision-Language Models |
+| 📈 **Machine Learning** | Regression, Classification, Clustering, Ensemble Methods |
+| 🧹 **Data Preprocessing** | Cleaning, Imputation, Encoding, Normalization, Scaling |
+| ⚙️ **Feature Engineering** | Selection, Extraction, Dimensionality Reduction (PCA) |
+| 📊 **NLP** | Tokenization, Embeddings, Sentiment Analysis, Text Classification |
+| 🔍 **Model Evaluation** | Cross-Validation, Confusion Matrix, AUC-ROC, Grid Search |
+
+</div>
 
 ---
 
@@ -139,7 +177,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Favorite Quote
+### 💭 Quote
 
 *"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."*
 
