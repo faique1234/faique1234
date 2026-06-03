@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Faique&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%A4%96;LLM+%7C+NLP+%7C+Deep+Learning+%7C+MLOps;Data+Cleaning+%7C+Preprocessing+%7C+Feature+Engineering;Turning+Raw+Data+into+Intelligence+%F0%9F%A7%A0;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -20,25 +18,35 @@
 
 ## 🧠 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name        = "Muhammad Faique Bin Shahid"
-        self.username    = "faique1234"
-        self.role        = "AI Engineer"
-        self.focus       = ["LLMs", "NLP", "Deep Learning", "Machine Learning"]
-        self.skills      = ["Data Cleaning", "Preprocessing", "Feature Engineering", "Model Training"]
-        self.languages   = ["Python", "C++", "JavaScript", "SQL"]
-        self.learning    = ["Agentic AI", "RAG Pipelines", "MLOps", "Transformers"]
-        self.open_to     = "AI/ML collaborations, research, and SaaS projects"
-        self.fun_fact    = "I blend ML with real-world deployments 🚀"
+<table>
+<tr>
+<td width="50%">
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together.")
+🙋‍♂️ **Muhammad Faique Bin Shahid**
+> AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-me = AIEngineer()
-me.say_hi()
+- 🎯 **Focus:** LLMs, NLP, Deep Learning & Machine Learning
+- 🌱 **Learning:** Agentic AI, RAG Pipelines, Transformers & MLOps
+- 🤝 **Open to:** AI/ML collaborations, research & SaaS projects
+- 💬 **Ask me about:** LLMs, Data Preprocessing, Feature Engineering & Deep Learning
+- 📍 **Location:** Rawalpindi, Pakistan
+- ⚡ **Fun fact:** I blend ML with real-world deployments 🚀
+
+</td>
+<td width="50%" align="center">
+
 ```
+🤖  AI Engineer
+📊  Data Scientist
+🧠  LLM Developer
+🔬  ML Researcher
+🛠️  Problem Solver
+🚀  Always Learning
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,7 +56,7 @@ me.say_hi()
 - 🌱 Learning **Agentic AI frameworks, RAG systems & Transformer fine-tuning**
 - 🤝 Looking to collaborate on **AI SaaS, research projects & open-source ML**
 - 💬 Ask me about **LLMs, Deep Learning, NLP, Data Preprocessing & Feature Engineering**
-- ⚡ Fun fact: I seamlessly integrate AI/ML into real-world production systems
+- ⚡ Seamlessly integrating AI/ML into real-world production systems
 
 ---
 
@@ -80,7 +88,6 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-20c997?style=for-the-badge&logo=python&logoColor=white)
 ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-fd7e14?style=for-the-badge&logo=python&logoColor=white)
-![Missing Values](https://img.shields.io/badge/Missing%20Value%20Handling-dc3545?style=for-the-badge&logo=python&logoColor=white)
 ![Normalization](https://img.shields.io/badge/Normalization%20%26%20Scaling-0dcaf0?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Data Visualization & Analysis
@@ -89,10 +96,12 @@ me.say_hi()
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 💻 Languages & Tools
+### 💻 Languages & Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -113,6 +122,7 @@ me.say_hi()
 | ⚙️ **Feature Engineering** | Selection, Extraction, Dimensionality Reduction (PCA) |
 | 📊 **NLP** | Tokenization, Embeddings, Sentiment Analysis, Text Classification |
 | 🔍 **Model Evaluation** | Cross-Validation, Confusion Matrix, AUC-ROC, Grid Search |
+| 🌐 **Web & Deployment** | HTML, Flask, REST APIs, AI-powered Web Apps |
 
 </div>
 
@@ -135,28 +145,69 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faique1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faique1234&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faique1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" />
+| 🏆 Certificate | 🏛️ Issuer | 📅 Date |
+|---|---|---|
+| AI Foundations for Everyone Specialization | IBM | Aug 2025 |
+| IBM Generative AI Engineering Professional Certificate | IBM | Dec 2025 |
+| IBM Generative AI Engineering with LLMs Specialization | IBM | Feb 2026 |
+| IBM AI Engineering Professional Certificate | IBM | — |
+| IBM AI Developer Professional Certificate | IBM | — |
+| Data Science & AI Certification | NAVTTC | Aug 2026 |
 
 </div>
 
+<br/>
+
+<details>
+<summary><b>📄 View Certification Details</b></summary>
+
+<br/>
+
+**🔵 IBM — AI Foundations for Everyone Specialization** &nbsp;`Aug 2025`
+- Developed foundational skills in Artificial Intelligence (AI)
+- Familiar with Machine Learning, Deep Learning, and related terminology
+- Gained knowledge of IBM Watson AI services for applying pre-built AI solutions
+- Learned how to build and deploy web-based intelligent virtual assistants
+- Created and deployed an AI-enabled Chatbot on a website as a practical project
+
 ---
 
-## 🏅 Certifications & Learning
+**🔵 IBM — Generative AI Engineering Professional Certificate** &nbsp;`Dec 2025`
+- Gained practical experience in generative AI architectures and LLMs for NLP-based systems
+- Skilled in tokenization, data loaders, transformers, attention mechanisms, and prompt engineering
+- Experienced with GPT and BERT, PyTorch, and Hugging Face Transformers
+- Built RAG applications like question-answering systems
+- Hands-on experience with Machine Learning Models and Data Analysis concepts
+
+---
+
+**🔵 IBM — Generative AI Engineering with LLMs Specialization** &nbsp;`Feb 2026`
+- Acquired applied expertise in generative AI architectures and NLP system development
+- Implemented and fine-tuned models such as GPT and BERT using PyTorch and Hugging Face Transformers
+- Applied prompt engineering techniques for controlled text generation and task optimization
+- Utilized LangChain document loaders to integrate, structure, and process multi-source data for LLM-based applications
+
+---
+
+**🟢 NAVTTC — Data Science & AI Certification** &nbsp;`Aug 2026`
+- Completed a certified training program in Data Science and AI recognized by NAVTTC, Pakistan
+- Gained foundational knowledge in data analysis, machine learning, and AI concepts
+- Skilled in data preprocessing, statistical analysis, and visualization using Python
+- Completed hands-on projects demonstrating practical application of AI and Data Science principles
+
+</details>
+
+---
+
+## 🎓 Learning & Courses
 
 <div align="center">
 
 [![Coursera](https://img.shields.io/badge/Coursera%20Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/muhammad-faique)
-
-> 📜 Actively upskilling through certified AI/ML courses on Coursera
 
 </div>
 
@@ -176,8 +227,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-### 💭 Quote
 
 *"Artificial Intelligence is not about replacing humans — it's about amplifying human potential."*
 
