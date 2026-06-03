@@ -154,9 +154,7 @@
 | AI Foundations for Everyone Specialization | IBM | Aug 2025 |
 | IBM Generative AI Engineering Professional Certificate | IBM | Dec 2025 |
 | IBM Generative AI Engineering with LLMs Specialization | IBM | Feb 2026 |
-| IBM AI Engineering Professional Certificate | IBM | — |
-| IBM AI Developer Professional Certificate | IBM | — |
-| Data Science & AI Certification | NAVTTC | Aug 2026 |
+| Data Science & AI Certification | NAVTTC | Aug 2025 |
 
 </div>
 
@@ -193,7 +191,7 @@
 
 ---
 
-**🟢 NAVTTC — Data Science & AI Certification** &nbsp;`Aug 2026`
+**🟢 NAVTTC — Data Science & AI Certification** &nbsp;`Aug 2025`
 - Completed a certified training program in Data Science and AI recognized by NAVTTC, Pakistan
 - Gained foundational knowledge in data analysis, machine learning, and AI concepts
 - Skilled in data preprocessing, statistical analysis, and visualization using Python
