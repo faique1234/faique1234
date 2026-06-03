@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=faique1234&label=Profile%20Views&color=00d4ff&style=flat-square" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/faique1234?label=Followers&style=flat-square&color=00d4ff&labelColor=0d1117" alt="followers" />
+
 
 </div>
 
